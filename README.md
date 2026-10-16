@@ -1,4 +1,3 @@
-# Ibrahim-sorie-kamara_BSEM1101_905006001
 Student Learning Portal
 A simple, menu-driven Python application for managing learner records and tracking course progress. This project was developed for the PROG211 — Object-Oriented Programming 1 assignment and demonstrates object-oriented programming in an education-focused example.
 Table of Contents
